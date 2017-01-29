@@ -5,7 +5,8 @@ tiny wrapper for mongodb
 ## Installation
 
 ```
-$ heroku plugins:install git://github.com/dot/heroku-mongodb.git
+$ git clone git://github.com/dot/heroku-mongodb.git
+$ heroku plugins:link <to heroku-mongodb dir>
 ```
 
 ## Usage
