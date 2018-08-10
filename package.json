@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "tiny wrapper for mongodb",
   "main": "index.js",
+  "files": [
+    "README.md",
+    "index.js",
+    "commands/compose/dump.js"
+  ],
   "author": "Shuhei KONDO @_dot",
   "repository": "dot/heroku-mongodb",
   "bugs": {
